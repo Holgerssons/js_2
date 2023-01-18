@@ -1,0 +1,80 @@
+.main{
+width: 800px;
+height: 500px;
+background-color: rgb(227, 251, 254);
+margin: 100px auto 0;
+border-top: 1px solid transparent;
+}
+
+.product{
+  margin-top: 100px;
+  margin-left: 348px;
+  margin-bottom: 0px;
+}
+
+.btn{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 150px;
+  height: 50px;
+  background-color: rgb(198, 199, 255);
+  border-radius: 3px;
+  margin-left: 315px;
+  margin-top: 0px;
+}
+
+.img{
+ width: 26px;
+}
+
+.number{
+  font-size: 26px;
+  margin-left: 15px;
+}
+
+
+.button_plus{
+  width: 100px;
+  height: 30px;
+  border-radius: 4px;
+  border-color: rgb(231, 231, 231);
+  margin-left: 275px;
+  margin-top: 20px;
+}
+
+.button_minus{
+  width: 100px;
+  height: 30px;
+  border-radius: 4px;
+  border-color: rgb(231, 231, 231);
+  margin-left: 30px;
+}
+
+.block_input{
+  margin-top: 25px;
+  margin-left: 326px;
+}
+
+.select{
+  border-radius: 4px;
+  border-color: rgb(231, 231, 231);
+
+}
+
+.input{
+  width: 90px;
+  border-radius: 3px;
+}
+
+.block_sum{
+  display: flex;
+  margin-top: 10px;
+  margin-left: 360px;
+
+}
+
+.sum{
+  margin-top: 0;
+  margin-left: 8px;
+}
